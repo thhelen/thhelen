@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Helena Thomas! I am a recent graduate with a MS degree in Electrical and Computer Engineering from the University of Michigan, with a focus on machine learning and computer vision. I am passionate about leveraging data science and statistics to make a positive impact on the world and really enjoy playing with data. 
+
+- Currently, I am working as a part-time Research Assistant at the Coastal Ecology and Conservation Lab, processing and analyzing extensive high-resolution datasets of fish movement and behavior in coastal regions and utilizing data science and machine learning approaches to extract valuable insights from large-scale datasets. Here, I am dealing with approximately 2 million records of data, representing a substantial collection of data on fish behavior in coastal regions.
+
+- My background in machine learning along with data analysis and processing, has been cultivated through a combination of rigorous coursework and practical projects. I have worked on image classification and reconstruction, object detection, data analysis and visualization, primarily using Python. I have worked on projects involving predictive modeling and data analysis, such as the project involving predictive modeling for state fragility assessment involving the Fragile States Index (FSI) data (2006-2023), and doing a global socio-economic analysis: through poverty, corruption and health indicators. These mainly involved structuring, cleaning and transforming the data for analysis and then visualizing various relationships found in the data. My projects, such as integrating YOLO with SWIN transformer for real-time object detection and using Convolutional Neural Networks (CNNs) for image reconstruction, highlight my ability to handle diverse data analysis tasks.
+
+- My technical skills encompass programming languages such as Python (Pandas, Matplotlib, NumPy, Keras, TensorFlow, OpenCV, PyTorch, Scikit-learn, Seaborn, NLTK), C, C++, and Julia. I am actively seeking roles in machine learning, data science, data analysis, and deep learning, where I can use my skills and experience to contribute to innovative and impactful projects.
+- 📫 How to reach me: Shoot me an email at thhelen@umich.edu
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I play the violin, recorder and the keyboard and love music! 
+
